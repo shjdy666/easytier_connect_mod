@@ -1,0 +1,1 @@
+{"required":false,"minVersion":"0.8","package":"com.easytier.connect.mixin","compatibilityLevel":"JAVA_17","client":["TitleScreenMixin","GameMenuScreenMixin"],"injectors":{"defaultRequire":1}}
